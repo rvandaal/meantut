@@ -1,0 +1,19 @@
+{
+  "name": "meantut",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN",
+    "Angular",
+    "2"
+  ],
+  "author": "Rob van Daal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
